@@ -1,7 +1,7 @@
 ---
-title: OSHA
+title: HWC
 ---
-#  OSHA
+#  HWC
 
 
 <small class="github">[hwc18](https://github.com/EU-OSHA/hwc18)</small>
