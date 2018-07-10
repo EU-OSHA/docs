@@ -112,6 +112,9 @@
     text: Package Information
     url: !!python/unicode '/IT-systems/osha.whoswho'
   - source: generated
+    text: HWC18
+    url: !!python/unicode '/IT-systems/hwc18'
+  - source: generated
     text: Campaign - Splashpage
     url: !!python/unicode '/IT-systems/hwc-splashpage'
   - source: generated
