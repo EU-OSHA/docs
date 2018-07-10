@@ -15,6 +15,5 @@ title: IT-systems
 * EU-OSHA OiRA website
 * EU-OSHA VeSafe website
 * EU-OSHA Translation management demo
-* Package Information
 * Theme for OSHA HWC 2014
 <div style="display:none" class="generated_end"></div>
