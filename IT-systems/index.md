@@ -5,8 +5,8 @@ title: IT-systems
 # IT-systems
 
 <div style="display:none" class="generated_start"></div>
-* Build application forms with Plone
-* Build quizzes with Plone
+* EU-OSHA - Corporate - Plone vacancies (ARCHIVE)
+* Quizz support
 * Buildout for EU-OSHA corporate
 * EU-OSHA NAPO website
 * EU-OSHA Corporate website
@@ -16,5 +16,5 @@ title: IT-systems
 * EU-OSHA VeSafe website
 * EU-OSHA Translation management demo
 * Package Information
-* osha.hwctheme
+* Theme for OSHA HWC 2014
 <div style="display:none" class="generated_end"></div>
