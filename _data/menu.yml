@@ -16,7 +16,7 @@
       url: !!python/unicode '/IT-systems/Corporate-Vacancies/#requirements'
     - text: Usage
       url: !!python/unicode '/IT-systems/Corporate-Vacancies/#usage'
-    text: Build application forms with Plone
+    text: EU-OSHA - Corporate - Plone vacancies (ARCHIVE)
     url: !!python/unicode '/IT-systems/Corporate-Vacancies'
   - source: generated
     subitems:
@@ -26,7 +26,7 @@
       url: !!python/unicode '/IT-systems/osha.quizzes/#requirements'
     - text: Usage
       url: !!python/unicode '/IT-systems/osha.quizzes/#usage'
-    text: Build quizzes with Plone
+    text: Quizz support
     url: !!python/unicode '/IT-systems/osha.quizzes'
   - source: generated
     text: Buildout for EU-OSHA corporate
@@ -43,7 +43,7 @@
       url: !!python/unicode '/IT-systems/napo/#pre-requisites'
     - text: Quick start
       url: !!python/unicode '/IT-systems/napo/#quick-start'
-    text: NAPO
+    text: EU-OSHA NAPO website
     url: !!python/unicode '/IT-systems/napo'
   - source: generated
     subitems:
@@ -95,13 +95,13 @@
         url: /IT-systems/osha-website/#how-to-set-up-a-development-and-a-staging-environment
       text: Technical strategy and chosen solutions
       url: /IT-systems/osha-website/#technical-strategy-and-chosen-solutions
-    text: OSHA
+    text: EU-OSHA Corporate website
     url: /IT-systems/osha-website
   - source: generated
     subitems:
     - text: Setup
       url: !!python/unicode '/IT-systems/oira.reports/#setup'
-    text: OiRA Statistical Reports
+    text: EU-OSHA OiRA website
     url: !!python/unicode '/IT-systems/oira.reports'
   - source: generated
     subitems:
@@ -112,10 +112,10 @@
     text: Package Information
     url: !!python/unicode '/IT-systems/osha.whoswho'
   - source: generated
-    text: HWC18
+    text: EU-OSHA HWC 2018-2019 website
     url: !!python/unicode '/IT-systems/hwc18'
   - source: generated
-    text: Campaign - Splashpage
+    text: EU-OSHA HWC 2018-2019 splashpage
     url: !!python/unicode '/IT-systems/hwc-splashpage'
   - source: generated
     subitems:
@@ -139,10 +139,10 @@
       url: !!python/unicode '/IT-systems/VeSafe/#repository-layout##-breakdown-for-what-each-directory/file-is-used-for.-see'
     - text: Branches
       url: !!python/unicode '/IT-systems/VeSafe/#branches'
-    text: VeSafe
+    text: EU-OSHA VeSafe website
     url: !!python/unicode '/IT-systems/VeSafe'
   - source: generated
-    text: osha.hwctheme
+    text: Theme for OSHA HWC 2014
     url: !!python/unicode '/IT-systems/osha.hwctheme'
   text: IT-systems
   url: /IT-systems
