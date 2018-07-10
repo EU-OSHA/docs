@@ -33,12 +33,6 @@
     url: !!python/unicode '/IT-systems/archive.osha.corporate.buildout'
   - source: generated
     subitems:
-    - text: Known issues
-      url: !!python/unicode '/IT-systems/drupal.tmgmt/#known-issues'
-    text: EU-OSHA Translation management demo
-    url: !!python/unicode '/IT-systems/drupal.tmgmt'
-  - source: generated
-    subitems:
     - text: Pre-requisites
       url: !!python/unicode '/IT-systems/napo/#pre-requisites'
     - text: Quick start
@@ -104,14 +98,6 @@
     text: EU-OSHA OiRA website
     url: !!python/unicode '/IT-systems/oira.reports'
   - source: generated
-    subitems:
-    - text: Credits
-      url: !!python/unicode '/IT-systems/osha.whoswho/#credits'
-    - text: License
-      url: !!python/unicode '/IT-systems/osha.whoswho/#license'
-    text: Package Information
-    url: !!python/unicode '/IT-systems/osha.whoswho'
-  - source: generated
     text: EU-OSHA HWC 2018-2019 website
     url: !!python/unicode '/IT-systems/hwc18'
   - source: generated
@@ -141,6 +127,12 @@
       url: !!python/unicode '/IT-systems/VeSafe/#branches'
     text: EU-OSHA VeSafe website
     url: !!python/unicode '/IT-systems/VeSafe'
+  - source: generated
+    subitems:
+    - text: Known issues
+      url: !!python/unicode '/IT-systems/drupal.tmgmt/#known-issues'
+    text: EU-OSHA Translation management demo
+    url: !!python/unicode '/IT-systems/drupal.tmgmt'
   - source: generated
     text: Theme for OSHA HWC 2014
     url: !!python/unicode '/IT-systems/osha.hwctheme'
