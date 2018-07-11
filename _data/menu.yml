@@ -60,18 +60,18 @@
     url: !!python/unicode '/IT-systems/hwc18'
   - source: generated
     subitems:
-    - text: Setup
-      url: !!python/unicode '/IT-systems/oira.reports/#setup'
-    text: EU-OSHA OiRA website
-    url: !!python/unicode '/IT-systems/oira.reports'
-  - source: generated
-    subitems:
     - text: Pre-requisites
       url: !!python/unicode '/IT-systems/napo/#pre-requisites'
     - text: Quick start
       url: !!python/unicode '/IT-systems/napo/#quick-start'
     text: EU-OSHA NAPO website
     url: !!python/unicode '/IT-systems/napo'
+  - source: generated
+    subitems:
+    - text: Setup
+      url: !!python/unicode '/IT-systems/oira-website/#setup'
+    text: EU-OSHA OiRA website
+    url: !!python/unicode '/IT-systems/oira-website'
   - source: generated
     subitems:
     - text: Pre-requisites
