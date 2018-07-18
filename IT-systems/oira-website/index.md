@@ -1,7 +1,7 @@
 ---
-title: OSHA
+title: EU-OSHA
 ---
-#  OSHA
+#  EU-OSHA
 
 
 <small class="github">[oira-website](https://github.com/EU-OSHA/oira-website)</small>
