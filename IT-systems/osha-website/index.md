@@ -1,7 +1,7 @@
 ---
-title: OSHA
+title: EU-OSHA
 ---
-OSHA
+EU-OSHA
 ====
 
 <small class="github">[osha-website](https://github.com/eu-osha/osha-website)</small>
