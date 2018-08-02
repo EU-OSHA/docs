@@ -8,8 +8,7 @@ title: Welcome to the EU-OSHA documentation hub
 
 ### EU-OSHA
 
-Some intro text here.
-
+EU-OSHA is the European Union information agency for occupational safety and health.
 
 ## What is covered here
 
