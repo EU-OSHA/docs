@@ -1,7 +1,7 @@
 ---
-title: OSHA
+title: EU-OSHA - OIRA
 ---
-#  OSHA
+#  EU-OSHA - OIRA
 
 
 <small class="github">[oira-website](https://github.com/EU-OSHA/oira-website)</small>
@@ -148,7 +148,7 @@ OSHA project.
 
 Command usage:
 
-  * `./test.sh` \- Runs all tests from the OSHA group
+  * `./test.sh` \- Runs all tests from the EU-OSHA group
   * `./test.sh ClassNameTest` \- Runs all the test methods from the ClassNameTest test class
   * `./test.sh ClassNameTest testName1,testName2` \- Runs only the two tests from the entire class
 

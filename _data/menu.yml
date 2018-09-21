@@ -5,48 +5,6 @@
 - subitems:
   - source: generated
     subitems:
-    - subitems:
-      - text: Importing HR Application Form
-        url: !!python/unicode '/IT-systems/Corporate-Vacancies/#importing-hr-application-form'
-      - text: Setting up RDB
-        url: !!python/unicode '/IT-systems/Corporate-Vacancies/#setting-up-rdb'
-      text: Installation
-      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#installation'
-    - text: Requirements
-      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#requirements'
-    - text: Usage
-      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#usage'
-    text: Build application forms with Plone
-    url: !!python/unicode '/IT-systems/Corporate-Vacancies'
-  - source: generated
-    subitems:
-    - text: Installation
-      url: !!python/unicode '/IT-systems/osha.quizzes/#installation'
-    - text: Requirements
-      url: !!python/unicode '/IT-systems/osha.quizzes/#requirements'
-    - text: Usage
-      url: !!python/unicode '/IT-systems/osha.quizzes/#usage'
-    text: Build quizzes with Plone
-    url: !!python/unicode '/IT-systems/osha.quizzes'
-  - source: generated
-    text: Buildout for EU-OSHA corporate
-    url: !!python/unicode '/IT-systems/archive.osha.corporate.buildout'
-  - source: generated
-    subitems:
-    - text: Known issues
-      url: !!python/unicode '/IT-systems/drupal.tmgmt/#known-issues'
-    text: EU-OSHA Translation management demo
-    url: !!python/unicode '/IT-systems/drupal.tmgmt'
-  - source: generated
-    subitems:
-    - text: Pre-requisites
-      url: !!python/unicode '/IT-systems/napo/#pre-requisites'
-    - text: Quick start
-      url: !!python/unicode '/IT-systems/napo/#quick-start'
-    text: NAPO
-    url: !!python/unicode '/IT-systems/napo'
-  - source: generated
-    subitems:
     - text: Definitions, acronyms and abbreviations
       url: /IT-systems/osha-website/#definitions-acronyms-and-abbreviations
     - subitems:
@@ -95,25 +53,25 @@
         url: /IT-systems/osha-website/#how-to-set-up-a-development-and-a-staging-environment
       text: Technical strategy and chosen solutions
       url: /IT-systems/osha-website/#technical-strategy-and-chosen-solutions
-    text: OSHA
+    text: EU-OSHA Corporate website
     url: /IT-systems/osha-website
+  - source: generated
+    text: EU-OSHA HWC 2018-2019 website
+    url: !!python/unicode '/IT-systems/hwc18'
+  - source: generated
+    subitems:
+    - text: Pre-requisites
+      url: !!python/unicode '/IT-systems/napo/#pre-requisites'
+    - text: Quick start
+      url: !!python/unicode '/IT-systems/napo/#quick-start'
+    text: EU-OSHA NAPO website
+    url: !!python/unicode '/IT-systems/napo'
   - source: generated
     subitems:
     - text: Setup
-      url: !!python/unicode '/IT-systems/oira.reports/#setup'
-    text: OiRA Statistical Reports
-    url: !!python/unicode '/IT-systems/oira.reports'
-  - source: generated
-    subitems:
-    - text: Credits
-      url: !!python/unicode '/IT-systems/osha.whoswho/#credits'
-    - text: License
-      url: !!python/unicode '/IT-systems/osha.whoswho/#license'
-    text: Package Information
-    url: !!python/unicode '/IT-systems/osha.whoswho'
-  - source: generated
-    text: Campaign - Splashpage
-    url: !!python/unicode '/IT-systems/hwc-splashpage'
+      url: !!python/unicode '/IT-systems/oira-website/#setup'
+    text: EU-OSHA OiRA website
+    url: !!python/unicode '/IT-systems/oira-website'
   - source: generated
     subitems:
     - text: Pre-requisites
@@ -136,11 +94,45 @@
       url: !!python/unicode '/IT-systems/VeSafe/#repository-layout##-breakdown-for-what-each-directory/file-is-used-for.-see'
     - text: Branches
       url: !!python/unicode '/IT-systems/VeSafe/#branches'
-    text: VeSafe
+    text: EU-OSHA VeSafe website
     url: !!python/unicode '/IT-systems/VeSafe'
   - source: generated
-    text: osha.hwctheme
-    url: !!python/unicode '/IT-systems/osha.hwctheme'
+    subitems:
+    - text: Known issues
+      url: !!python/unicode '/IT-systems/drupal.tmgmt/#known-issues'
+    text: EU-OSHA Translation management demo
+    url: !!python/unicode '/IT-systems/drupal.tmgmt'
+  - source: generated
+    text: EU-OSHA HWC 2018-2019 splashpage
+    url: !!python/unicode '/IT-systems/hwc-splashpage'
+  - source: generated
+    subitems:
+    - subitems:
+      - text: Importing HR Application Form
+        url: !!python/unicode '/IT-systems/Corporate-Vacancies/#importing-hr-application-form'
+      - text: Setting up RDB
+        url: !!python/unicode '/IT-systems/Corporate-Vacancies/#setting-up-rdb'
+      text: Installation
+      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#installation'
+    - text: Requirements
+      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#requirements'
+    - text: Usage
+      url: !!python/unicode '/IT-systems/Corporate-Vacancies/#usage'
+    text: EU-OSHA - Corporate - Plone vacancies (ARCHIVE)
+    url: !!python/unicode '/IT-systems/Corporate-Vacancies'
+  - source: generated
+    subitems:
+    - text: Installation
+      url: !!python/unicode '/IT-systems/osha.quizzes/#installation'
+    - text: Requirements
+      url: !!python/unicode '/IT-systems/osha.quizzes/#requirements'
+    - text: Usage
+      url: !!python/unicode '/IT-systems/osha.quizzes/#usage'
+    text: Quizz support
+    url: !!python/unicode '/IT-systems/osha.quizzes'
+  - source: generated
+    text: Buildout for EU-OSHA corporate
+    url: !!python/unicode '/IT-systems/archive.osha.corporate.buildout'
   text: IT-systems
   url: /IT-systems
 - text: Development guidelines

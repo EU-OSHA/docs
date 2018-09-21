@@ -1,13 +1,13 @@
 ---
-title: OSHA
+title: EU-OSHA
 ---
-OSHA
+EU-OSHA
 ====
 
 <small class="github">[osha-website](https://github.com/eu-osha/osha-website)</small>
 
 
-Build scripts and source code for the OSHA project
+Build scripts and source code for the EU-OSHA project
 
 [![Code Climate](https://codeclimate.com/github/EU-OSHA/osha-website/badges/gpa.svg)](https://codeclimate.com/github/EU-OSHA/osha-website)
 
@@ -58,7 +58,7 @@ osha_menu | Main and Footer Menus
 osha_migration | Migrate data from the old website  
 osha_search | Search customizations
 osha_sitemap | Sitemap for xmlsitemap
-osha_sites_migration | Migrating content from other OSHA websites
+osha_sites_migration | Migrating content from other EU-OSHA websites
 osha_taxonomies | Project Specific Taxonomies
 osha_workflow | Custom Workflow Moderation
 
@@ -206,10 +206,10 @@ ReadytoPublish | The contents with 'ReadytoPublish' state can be published. Only
 In the first diagram below the general content management workflow is shown.There are several steps that could be skipped, as it is reflected in the workflow.
 <br/>The second diagram contains the detailed and complete content management workflow, including the content statuses and participant actors.
 
-![Simple Content Management Workflow](https://melish.github.io/docs/images/CMF-1.png)
+![Simple Content Management Workflow](http://eu-osha.github.io/docs/images/CMF-1.png)
 **Figure 1 - Simple Content Management Workflow**
      
-![Detailed Content Management Workflow](https://melish.github.io/docs/images/CMF-2.png)
+![Detailed Content Management Workflow](http://eu-osha.github.io/docs/images/CMF-2.png)
 **Figure 2 - Detailed Content Management Workflow**
 
 #### Brief steps description
@@ -314,7 +314,7 @@ to `config.json` and customize to suit your environment
         },
         "variables": {
             "site_mail": "your.email@domain.org",
-            "site_name": "OSHA",
+            "site_name": "EU-OSHA",
             "osha_data_dir": "/home/osha/data",
             "file_temporary_path": "/tmp"
         }
@@ -349,11 +349,11 @@ To update an existing instance without reinstalling (and loosing existing conten
         
 #### Running tests
     
-You can use the test.sh script to launch the set of tests designed for the OSHA project.
+You can use the test.sh script to launch the set of tests designed for the EU-OSHA project.
     
 Command usage:
     
-- `./test.sh` - Runs all tests from the OSHA group
+- `./test.sh` - Runs all tests from the EU-OSHA group
 - `./test.sh ClassNameTest` - Runs all the test methods from the ClassNameTest test class
 - `./test.sh ClassNameTest testName1,testName2` - Runs only the two tests from the entire class
 [Edit this page](https://github.com/eu-osha/osha-website/edit/master/readme.md)

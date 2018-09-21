@@ -1,12 +1,12 @@
 ---
-title: OSHA
+title: HWC16
 ---
-#  OSHA
+#  HWC16
 
 
 <small class="github">[campaigns](https://github.com/EU-OSHA/campaigns)</small>
 
-Build scripts and source code for the Osha project
+Build scripts and source code for the EU-OSHA project
 
 [![Build
 Status](https://camo.githubusercontent.com/9f6e6c1797d866adafee82039e43a08b025e1808/687474703a2f2f63692e6564772e726f2f6275696c645374617475732f69636f6e3f6a6f623d7068702d6f736861)](http://ci.edw.ro/job
@@ -146,7 +146,7 @@ OSHA project.
 
 Command usage:
 
-  * `./test.sh` \- Runs all tests from the OSHA group
+  * `./test.sh` \- Runs all tests from the EU-OSHA group
   * `./test.sh ClassNameTest` \- Runs all the test methods from the ClassNameTest test class
   * `./test.sh ClassNameTest testName1,testName2` \- Runs only the two tests from the entire class
 
